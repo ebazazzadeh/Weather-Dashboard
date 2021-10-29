@@ -28,7 +28,7 @@ This project is created with:
 
 ## Website
 
-https://ebazazzadeh.github.io/weather-dashboard/
+https://ebazazzadeh.github.io/Weather-Dashboard/
 
 ## Contribution
 
